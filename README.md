@@ -1,2 +1,2 @@
 # EcoPunk
-An exploration and building modpack still taking shape.
+An exploration and building Minecraft modpack still taking shape.
